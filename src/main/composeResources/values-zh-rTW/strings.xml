@@ -414,11 +414,11 @@
     <string name="patch_selection_option_hint_text">文字</string>
     <string name="patch_option_recommended_size">建議：%1$dx%2$d</string>
     <string name="patch_option_list_empty">值不可為空</string>
-    <string name="patch_option_list_duplicate">項目已在清單中</string>
+    <string name="patch_option_list_duplicate">項目已在列表中</string>
     <string name="patch_option_list_empty_state">尚未新增任何項目</string>
     <string name="patch_option_enter_value">輸入值…</string>
     <string name="patch_option_add_item">新增項目</string>
-    <string name="patch_option_edit_list">編輯清單</string>
+    <string name="patch_option_edit_list">編輯列表</string>
     <string name="patch_selection_run_info_title">這個執行</string>
     <string name="patch_selection_run_info_app_group">應用程式</string>
     <string name="patch_selection_run_info_bundles_group">修補包</string>

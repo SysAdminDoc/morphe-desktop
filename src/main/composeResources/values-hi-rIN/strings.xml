@@ -412,7 +412,7 @@
     <string name="patch_selection_option_hint_whole_number">एक पूर्ण संख्या</string>
     <string name="patch_selection_option_hint_number">एक संख्या</string>
     <string name="patch_selection_option_hint_text">पाठ</string>
-    <string name="patch_option_recommended_size">अनुशंसित: %1$dx%2$d</string>
+    <string name="patch_option_recommended_size">सुझाया गया साइज़: %1$dx%2$d</string>
     <string name="patch_option_list_empty">मान खाली नहीं हो सकता</string>
     <string name="patch_option_list_duplicate">आइटम पहले से सूची में मौजूद है</string>
     <string name="patch_option_list_empty_state">अभी तक कोई आइटम नहीं जोड़ा गया</string>

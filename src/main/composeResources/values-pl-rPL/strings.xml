@@ -414,9 +414,9 @@
     <string name="patch_selection_option_hint_text">tekst</string>
     <string name="patch_option_recommended_size">Zalecane: %1$dx%2$d</string>
     <string name="patch_option_list_empty">Wartość nie może być pusta</string>
-    <string name="patch_option_list_duplicate">Element już znajduje się na liście</string>
+    <string name="patch_option_list_duplicate">Element jest już na liście</string>
     <string name="patch_option_list_empty_state">Nie dodano jeszcze żadnych elementów</string>
-    <string name="patch_option_enter_value">Wpisz wartość…</string>
+    <string name="patch_option_enter_value">Wprowadź wartość…</string>
     <string name="patch_option_add_item">Dodaj element</string>
     <string name="patch_option_edit_list">Edytuj listę</string>
     <string name="patch_selection_run_info_title">To uruchomienie</string>

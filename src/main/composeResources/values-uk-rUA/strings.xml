@@ -414,8 +414,8 @@
     <string name="patch_selection_option_hint_text">текст</string>
     <string name="patch_option_recommended_size">Рекомендовано: %1$dx%2$d</string>
     <string name="patch_option_list_empty">Значення не може бути порожнім</string>
-    <string name="patch_option_list_duplicate">Елемент уже в списку</string>
-    <string name="patch_option_list_empty_state">Ще не додано жодного елемента</string>
+    <string name="patch_option_list_duplicate">Елемент вже є у списку</string>
+    <string name="patch_option_list_empty_state">Елементи ще не додано</string>
     <string name="patch_option_enter_value">Введіть значення…</string>
     <string name="patch_option_add_item">Додати елемент</string>
     <string name="patch_option_edit_list">Редагувати список</string>
